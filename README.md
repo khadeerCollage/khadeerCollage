@@ -205,26 +205,27 @@
 <div align="center">
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#00D9FF', 'lineColor': '#00D9FF', 'secondaryColor': '#7C3AED', 'tertiaryColor': '#10B981', 'background': '#0d1117', 'mainBkg': '#0d1117', 'nodeBkg': '#1e293b', 'clusterBkg': '#1e293b'}}}%%
 mindmap
-  root((Shaik Khadeer))
-    AI/ML
-      Deep Learning
-      Neural Networks
-      Computer Vision
-      NLP
-    LLM & GenAI
-      LangChain
-      LangGraph
-      RAG Systems
-      Vector Databases
-    Backend
-      FastAPI
-      REST APIs
-      Microservices
-    Data Science
-      Analytics
-      Visualization
-      Streamlit Apps
+  root((🧑‍💻 Shaik Khadeer))
+    🤖 AI/ML
+      🧠 Deep Learning
+      🔮 Neural Networks
+      👁️ Computer Vision
+      💬 NLP
+    🦜 LLM & GenAI
+      ⛓️ LangChain
+      📊 LangGraph
+      🔍 RAG Systems
+      🗄️ Vector Databases
+    ⚡ Backend
+      🚀 FastAPI
+      🔗 REST APIs
+      🏗️ Microservices
+    📈 Data Science
+      📊 Analytics
+      📉 Visualization
+      🎯 Streamlit Apps
 ```
 
 </div>
