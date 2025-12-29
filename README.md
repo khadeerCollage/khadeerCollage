@@ -198,7 +198,7 @@
         <img src="https://img.shields.io/badge/📊-TOTAL%20COMMITS-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Total"/>
         <br/><br/>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="45"/>
-        <br/><b>369+</b>
+        <br/><b>5+</b>
         <br/><sub>Total Contributions</sub>
       </td>
       <td align="center">
@@ -313,49 +313,71 @@
 <div align="center">
 
   <!-- 3D Animated Trophy Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=FFD700&background=0D111700&center=true&vCenter=true&width=600&lines=🏆+GITHUB+TROPHIES+%26+ACHIEVEMENTS+🏆" alt="Trophy Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=FFD700&background=0D111700&center=true&vCenter=true&width=650&lines=🏆+GITHUB+TROPHIES+%26+ACHIEVEMENTS+🏆;🥇+UNLOCKED+ACHIEVEMENTS+🥇" alt="Trophy Header"/>
 
 </div>
 
 <br/>
 
-<!-- Main Trophy Display - All Trophies -->
+<!-- Trophy Showcase with Multiple Themes -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  
+  <!-- Primary Trophy Row - Juicyfresh Theme -->
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies Row 1"/>
   </a>
+  
+  <br/>
+  
+  <!-- Secondary Trophy Row - Discord Theme -->
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies Row 2"/>
+  </a>
+  
 </div>
 
 <br/>
 
-<!-- Alternative Trophy Display with Different Theme -->
+<!-- 3D Your Achievements Showcase -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage" alt="Specific Trophies"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=400&lines=✨+YOUR+ACHIEVEMENTS+✨" alt="Achievements"/>
 </div>
 
 <br/>
 
-<!-- 3D Glowing Achievement Badges -->
+<!-- Achievement Stats Grid -->
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏆-PRO%20MEMBER-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=github&logoColor=white" alt="PRO Member"/>
-        <br/><sub><b>GitHub PRO</b></sub>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="50"/>
+        <br/>
+        <img src="https://img.shields.io/badge/369+-Commits-00D9FF?style=flat-square&labelColor=0d1117" alt="Commits"/>
+        <br/><sub><b>Total Commits</b></sub>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📊-171%2B%20COMMITS-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Commits"/>
-        <br/><sub><b>2025 Commits</b></sub>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="50"/>
+        <br/>
+        <img src="https://img.shields.io/badge/34+-Repos-7C3AED?style=flat-square&labelColor=0d1117" alt="Repos"/>
+        <br/><sub><b>Repositories</b></sub>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📁-34%2B%20REPOS-7C3AED?style=for-the-badge&labelColor=1a1a2e" alt="Repos"/>
-        <br/><sub><b>Active Repos</b></sub>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50"/>
+        <br/>
+        <img src="https://img.shields.io/badge/1-Star-FFD700?style=flat-square&labelColor=0d1117" alt="Stars"/>
+        <br/><sub><b>Stars Earned</b></sub>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⭐-STARS%20EARNED-FFD93D?style=for-the-badge&labelColor=1a1a2e" alt="Stars"/>
-        <br/><sub><b>Star Achiever</b></sub>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="50"/>
+        <br/>
+        <img src="https://img.shields.io/badge/1-Contributed-10B981?style=flat-square&labelColor=0d1117" alt="Contrib"/>
+        <br/><sub><b>Projects</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/A%20Button%20(Blood%20Type).png" width="50"/>
+        <br/>
+        <img src="https://img.shields.io/badge/A+-Grade-FF6B6B?style=flat-square&labelColor=0d1117" alt="Grade"/>
+        <br/><sub><b>Profile Grade</b></sub>
       </td>
     </tr>
   </table>
@@ -394,6 +416,52 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="50"/>
         <br/><b>Backend Expert</b>
         <br/><sub>API Development</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Languages Mastery -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=FFD700&background=0D111700&center=true&vCenter=true&width=350&lines=🌐+LANGUAGES+MASTERY+🌐" alt="Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+        <br/><b>Python</b>
+        <br/><sub>49.26%</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+        <br/><b>Jupyter</b>
+        <br/><sub>34.99%</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+        <br/><b>C</b>
+        <br/><sub>10.95%</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+        <br/><b>JavaScript</b>
+        <br/><sub>0.53%</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+        <br/><b>C++</b>
+        <br/><sub>0.28%</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+        <br/><b>HTML</b>
+        <br/><sub>0.28%</sub>
       </td>
     </tr>
   </table>
