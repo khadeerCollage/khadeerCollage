@@ -140,16 +140,24 @@
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,10,20&height=80&section=header&text=📊%20GITHUB%20ANALYTICS%20📊&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=50" alt="Analytics Header"/>
+</div>
+
+<br/>
 
 <div align="center">
   
   <!-- GitHub Stats Card - Using reliable endpoint -->
   <a href="https://github.com/khadeerCollage">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khadeerCollage&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khadeerCollage&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&ring_color=00D9FF"/>
   </a>
   <a href="https://github.com/khadeerCollage">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khadeerCollage&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khadeerCollage&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
   </a>
   
 </div>
@@ -160,7 +168,7 @@
   
   <!-- GitHub Streak Stats - Using demolab (more reliable) -->
   <a href="https://github.com/khadeerCollage">
-    <img src="https://streak-stats.demolab.com?user=khadeerCollage&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=khadeerCollage&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
   </a>
   
 </div>
@@ -171,7 +179,7 @@
   
   <!-- Activity Graph -->
   <a href="https://github.com/khadeerCollage">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadeerCollage&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadeerCollage&bg_color=0d1117&color=00D9FF&line=FF6B6B&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&area_color=7C3AED" alt="Contribution Graph"/>
   </a>
   
 </div>
@@ -181,80 +189,269 @@
 <div align="center">
   
   <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadeerCollage&theme=tokyonight" alt="Profile Details"/>
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadeerCollage&theme=radical" alt="Profile Details"/>
+  </a>
+  
+</div>
+
+<!-- 3D Language Stats Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khadeerCollage&theme=radical"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khadeerCollage&theme=radical" alt="Repos Per Language"/>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khadeerCollage&theme=radical"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khadeerCollage&theme=radical" alt="Most Commit Language"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ⏰ PRODUCTIVE TIME - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3500&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=500&lines=⏰+PRODUCTIVE+TIME+ZONE;📊+CODING+ANALYTICS" alt="Productive Time Header" />
   
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khadeerCollage&theme=tokyonight" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khadeerCollage&theme=tokyonight" alt="Most Commit Language"/>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadeerCollage&theme=radical"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadeerCollage&theme=radical" alt="Stats"/>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khadeerCollage&theme=radical&utcOffset=5.5"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khadeerCollage&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- 3D Glowing Productivity Metrics -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadeerCollage&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khadeerCollage&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <br/>
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://img.shields.io/badge/🌙_Night_Owl-Most%20Active%20After%20Midnight-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="Night Owl"/>
+  </a>
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://img.shields.io/badge/⚡_Peak_Hours-11PM%20--%203AM%20IST-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Peak Hours"/>
+  </a>
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://img.shields.io/badge/☕_Coffee_Powered-Unlimited%20Brews-FFD93D?style=for-the-badge&labelColor=0d1117" alt="Coffee"/>
+  </a>
 </div>
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies & Achievements
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 GITHUB TROPHIES & ACHIEVEMENTS - 3D PROFESSIONAL SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <!-- 3D Animated Trophy Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=🏆%20GITHUB%20TROPHIES%20%26%20ACHIEVEMENTS%20🏆&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=50" alt="Trophy Header"/>
+
+</div>
+
+<br/>
 
 <div align="center">
   
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  <!-- 3D Trophy Display - Tier 1: Premium Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=20&margin-h=20&rank=SECRET,SSS,SS,S" alt="Top Tier Trophies"/>
+  </a>
   
-  <br/><br/>
-  
-  <!-- Achievement Badges Based on Your Stats -->
-  <img src="https://img.shields.io/badge/🏆_PRO_Member-GitHub-black?style=for-the-badge&logo=github" alt="PRO"/>
-  <img src="https://img.shields.io/badge/📊_199+_Contributions-2025-brightgreen?style=for-the-badge" alt="Contributions"/>
-  <img src="https://img.shields.io/badge/📁_34+_Repositories-Active-blue?style=for-the-badge" alt="Repos"/>
-  <img src="https://img.shields.io/badge/⭐_Stars_Earned-Achiever-yellow?style=for-the-badge" alt="Stars"/>
-  
-  <br/><br/>
-  
-  <!-- Detailed Stats Cards -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=khadeerCollage&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributed Repos"/>
+</div>
 
+<br/>
+
+<div align="center">
+  
+  <!-- 3D Trophy Display - Tier 2: Achievement Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=radical&no-frame=true&no-bg=false&column=4&margin-w=20&margin-h=20&rank=AAA,AA,A,B" alt="Achievement Trophies"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<!-- 3D Glowing Achievement Badges -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆-PRO%20MEMBER-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=github&logoColor=white" alt="PRO Member"/>
+        <br/><sub><b>GitHub PRO</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-171%2B%20COMMITS-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Commits"/>
+        <br/><sub><b>2025 Commits</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📁-34%2B%20REPOS-7C3AED?style=for-the-badge&labelColor=1a1a2e" alt="Repos"/>
+        <br/><sub><b>Active Repos</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐-STARS%20EARNED-FFD93D?style=for-the-badge&labelColor=1a1a2e" alt="Stars"/>
+        <br/><sub><b>Star Achiever</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 3D Special Achievement Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🎯-CODE%20STREAK-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="Streak"/>
+        <br/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="50"/>
+        <br/><b>Streak Master</b>
+        <br/><sub>Consistent Contributor</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🚀-TOP%20CODER-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Top Coder"/>
+        <br/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50"/>
+        <br/><b>Code Rocket</b>
+        <br/><sub>27 Projects Contributed</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🤖-AI%20BUILDER-7C3AED?style=for-the-badge&labelColor=0d1117" alt="AI Builder"/>
+        <br/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50"/>
+        <br/><b>AI Architect</b>
+        <br/><sub>ML & Deep Learning</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/⚡-FAST%20API-10B981?style=for-the-badge&labelColor=0d1117" alt="FastAPI"/>
+        <br/><br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="50"/>
+        <br/><b>Backend Expert</b>
+        <br/><sub>API Development</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 3D Contributor Stats -->
+<div align="center">
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://github-contributor-stats.vercel.app/api?username=khadeerCollage&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00D9FF" alt="Top Contributed Repos"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- 3D Skill Level Indicators -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>🎖️ Skill Mastery Levels</h4>
+        <img src="https://img.shields.io/badge/Python-██████████-3776AB?style=flat-square&labelColor=0d1117"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-█████████░-FF6F00?style=flat-square&labelColor=0d1117"/>
+        <br/>
+        <img src="https://img.shields.io/badge/FastAPI-████████░░-009688?style=flat-square&labelColor=0d1117"/>
+        <br/>
+        <img src="https://img.shields.io/badge/LangChain-███████░░░-1C3C3C?style=flat-square&labelColor=0d1117"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Deep%20Learning-██████░░░░-EE4C2C?style=flat-square&labelColor=0d1117"/>
+      </td>
+      <td width="50%">
+        <h4>🏅 Achievements Unlocked</h4>
+        <img src="https://img.shields.io/badge/✅-First%20Pull%20Request-success?style=flat-square"/>
+        <br/>
+        <img src="https://img.shields.io/badge/✅-Arctic%20Code%20Vault-blue?style=flat-square"/>
+        <br/>
+        <img src="https://img.shields.io/badge/✅-100%2B%20Commits-purple?style=flat-square"/>
+        <br/>
+        <img src="https://img.shields.io/badge/✅-Multi%20Language-orange?style=flat-square"/>
+        <br/>
+        <img src="https://img.shields.io/badge/✅-Open%20Source%20Contributor-green?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" alt="Star" width="35" height="35" /> &nbsp;Featured Repositories
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ⭐ FEATURED REPOSITORIES - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,24&height=80&section=header&text=⭐%20FEATURED%20REPOSITORIES%20⭐&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=50" alt="Featured Repos Header"/>
+</div>
+
+<br/>
 
 <div align="center">
   
   <a href="https://github.com/khadeerCollage/RAG_Audio_Bot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=RAG_Audio_Bot&theme=algolia&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=RAG_Audio_Bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B6B" />
   </a>
   <a href="https://github.com/khadeerCollage/fastapi_gemini">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=fastapi_gemini&theme=algolia&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=fastapi_gemini&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B6B" />
   </a>
   
   <br/><br/>
   
   <a href="https://github.com/khadeerCollage/The-Machine-Learning-streamlit-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=The-Machine-Learning-streamlit-App&theme=algolia&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=The-Machine-Learning-streamlit-App&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7C3AED" />
   </a>
   <a href="https://github.com/khadeerCollage/Khadee-Data-Science-Portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=Khadee-Data-Science-Portfolio&theme=algolia&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=Khadee-Data-Science-Portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7C3AED" />
   </a>
   
   <br/><br/>
   
   <a href="https://github.com/khadeerCollage/langchain-langGraph-VectorDB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=langchain-langGraph-VectorDB&theme=algolia&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=langchain-langGraph-VectorDB&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=10B981" />
   </a>
   <a href="https://github.com/khadeerCollage/fast-api-projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=fast-api-projects&theme=algolia&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khadeerCollage&repo=fast-api-projects&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=10B981" />
   </a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> &nbsp;Current Focus Areas
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 CURRENT FOCUS AREAS - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,15&height=80&section=header&text=🔥%20CURRENT%20FOCUS%20AREAS%20🔥&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=50" alt="Focus Header"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -284,11 +481,17 @@ mindmap
 
 </div>
 
+<!-- 3D Focus Cards with Glowing Effects -->
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🎯 Currently Working On
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯-CURRENTLY%20WORKING%20ON-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="Working On"/>
+</div>
+
+<br/>
+
 - 🤖 Building RAG-powered AI applications
 - 🦜 Mastering LangChain & LangGraph
 - ⚡ FastAPI microservices architecture
@@ -297,7 +500,12 @@ mindmap
 </td>
 <td width="50%">
 
-### 🌱 Currently Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/🌱-CURRENTLY%20LEARNING-10B981?style=for-the-badge&labelColor=0d1117" alt="Learning"/>
+</div>
+
+<br/>
+
 - 🧠 Advanced LLM fine-tuning techniques
 - 🔗 Multi-agent AI systems
 - ☁️ Cloud deployment (AWS/GCP)
@@ -309,93 +517,261 @@ mindmap
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="35" height="35" /> &nbsp;Connect With Me
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🔗 CONNECT WITH ME - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-  <a href="mailto:skr7993257687@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shaik-khadeer-367474288/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/khadeerCollage">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://medium.com/@skr7993257687">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,10,30&height=80&section=header&text=🔗%20CONNECT%20WITH%20ME%20🔗&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=50" alt="Connect Header"/>
 </div>
 
 <br/>
 
 <div align="center">
   
-  📍 **Chilakaluripeta, Palnadu, Andhra Pradesh, India** 🇮🇳
-  
-  🎓 **RGUKT - Rajiv Gandhi University of Knowledge Technologies**
-  
+  <!-- 3D Social Media Buttons -->
+  <a href="mailto:skr7993257687@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Gmail-skr7993257687-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shaik-khadeer-367474288/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Shaik%20Khadeer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://img.shields.io/badge/💻_GitHub-khadeerCollage-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@skr7993257687">
+    <img src="https://img.shields.io/badge/📝_Medium-@skr7993257687-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium"/>
+  </a>
+
+</div>
+
+<br/>
+
+<!-- 3D Location Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="40"/>
+        <br/><b>📍 Location</b>
+        <br/><sub>Chilakaluripeta, Palnadu</sub>
+        <br/><sub>Andhra Pradesh, India 🇮🇳</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40"/>
+        <br/><b>🎓 Education</b>
+        <br/><sub>RGUKT - Rajiv Gandhi</sub>
+        <br/><sub>University of Knowledge Technologies</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"/>
+        <br/><b>💼 Status</b>
+        <br/><sub>Open for Collaborations</sub>
+        <br/><sub>AI/ML Projects</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> &nbsp;Contribution Snake
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20,25&height=80&section=header&text=🐍%20CONTRIBUTION%20SNAKE%20🐍&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=50" alt="Snake Header"/>
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- Snake Animation - Light Mode -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadeerCollage/khadeerCollage/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadeerCollage/khadeerCollage/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/khadeerCollage/khadeerCollage/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/khadeerCollage/khadeerCollage/output/github-snake-dark.svg" />
   </picture>
+  
+</div>
+
+<details>
+<summary>🐍 <b>How to Set Up Snake Animation</b> (Click to expand)</summary>
+<br/>
+
+To enable the snake animation, create this file in your profile repo:
+
+**`.github/workflows/snake.yml`**
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: khadeerCollage
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After creating this file, go to **Actions** tab and run the workflow manually!
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 CONTRIBUTION OCEAN - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=450&lines=🌊+CONTRIBUTION+OCEAN;🌊+WAVE+AFTER+WAVE" alt="Ocean Header" />
+  
+  <br/><br/>
+
+<img src="https://raw.githubusercontent.com/khadeerCollage/khadeerCollage/output/ocean.gif" alt="Ocean Contribution Animation"/>
+
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 💭 DEV QUOTE - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   
-### 💭 Random Dev Quote
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=7C3AED&background=0D111700&center=true&vCenter=true&width=450&lines=💭+RANDOM+DEV+QUOTE;💡+WORDS+OF+WISDOM" alt="Quote Header" />
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+  <br/><br/>
+  
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+  </a>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 WEEKLY DEVELOPMENT BREAKDOWN - 3D ENHANCED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 📊 Weekly Development Breakdown
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=4000&pause=1000&color=10B981&background=0D111700&center=true&vCenter=true&width=500&lines=📊+WEEKLY+DEVELOPMENT+BREAKDOWN;⏱️+CODING+TIME+STATS" alt="Weekly Header" />
+
+<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Python       ██████████████████░░░░   75.00 %
-Jupyter      ████████░░░░░░░░░░░░░░   15.00 %
-YAML         ██░░░░░░░░░░░░░░░░░░░░   05.00 %
-Markdown     █░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Other        █░░░░░░░░░░░░░░░░░░░░░   02.00 %
+🐍 Python       ██████████████████░░░░   75.00 % 🔥 Primary
+📓 Jupyter      ████████░░░░░░░░░░░░░░   15.00 % 📊 Analytics
+⚙️ YAML         ██░░░░░░░░░░░░░░░░░░░░   05.00 % 🔧 Config
+📝 Markdown     █░░░░░░░░░░░░░░░░░░░░░   03.00 % 📄 Docs
+💻 Other        █░░░░░░░░░░░░░░░░░░░░░   02.00 % 🛠️ Misc
 ```
 <!--END_SECTION:waka-->
 
 </div>
 
+<!-- 3D Language Breakdown Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Jupyter-15%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/YAML-5%25-CB171E?style=for-the-badge&logo=yaml&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Markdown-3%25-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FOOTER - 3D PROFESSIONAL CLOSING -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=120&section=footer&text=Let's%20Build%20AI%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=150&section=footer&text=Let's%20Build%20AI%20Together!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 </div>
 
 <div align="center">
   
-  **🚀 Open for Collaborations on AI/ML Projects! 🚀**
+  <!-- 3D Call to Action -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=600&lines=🚀+OPEN+FOR+AI%2FML+COLLABORATIONS!+🚀;💼+LET'S+CREATE+SOMETHING+AMAZING+💼" alt="CTA" />
   
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" />
+  <br/><br/>
   
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20in%20India-orange?style=flat-square)
-  ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-blue?style=flat-square)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=flat-square)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" height="40" />
+  
+  <br/><br/>
+  
+  <!-- 3D Final Badges -->
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20in%20India-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="Made with Love"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI-Enthusiast-00D9FF?style=for-the-badge&labelColor=0d1117" alt="AI Enthusiast"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-💚%20Contributor-10B981?style=for-the-badge&labelColor=0d1117" alt="Open Source"/>
+  
+  <br/><br/>
+  
+  <!-- 3D Star Call -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35"/>
+      </td>
+      <td align="center">
+        <b>If you like my projects, give them a star!</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35"/>
+      </td>
+    </tr>
+  </table>
   
   <br/>
   
-  ⭐ **If you like my projects, give them a star!** ⭐
+  <!-- 3D Profile Visitor Counter -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=40&section=header&text=Thanks%20for%20Visiting!%20🙏&fontSize=16&fontColor=fff&animation=fadeIn&fontAlignY=50" alt="Thanks"/>
   
 </div>
