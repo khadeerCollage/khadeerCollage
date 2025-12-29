@@ -204,16 +204,6 @@
   </table>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ⏰ PRODUCTIVE TIME - 3D ENHANCED SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3500&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=500&lines=⏰+PRODUCTIVE+TIME+ZONE;📊+CODING+ANALYTICS" alt="Productive Time Header" />
-  
-</div>
-
 <div align="center">
   <table>
     <tr>
@@ -317,11 +307,7 @@
         <br/><b>JavaScript</b>
         <br/><sub>0.53%</sub>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-        <br/><b>C++</b>
-        <br/><sub>0.28%</sub>
-      </td>
+     
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
         <br/><b>HTML</b>
