@@ -133,36 +133,90 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="35" height="35" /> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=khadeerCollage&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadeerCollage&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=khadeerCollage&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak Stats"/>
+  
+  <!-- GitHub Stats Card - Using reliable endpoint -->
+  <a href="https://github.com/khadeerCollage">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khadeerCollage&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+  </a>
+  <a href="https://github.com/khadeerCollage">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khadeerCollage&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
+  </a>
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadeerCollage&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph"/>
+  
+  <!-- GitHub Streak Stats - Using demolab (more reliable) -->
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://streak-stats.demolab.com?user=khadeerCollage&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" alt="GitHub Streak"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/khadeerCollage">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadeerCollage&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Contribution Graph"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadeerCollage&theme=tokyonight" alt="Profile Details"/>
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khadeerCollage&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khadeerCollage&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadeerCollage&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khadeerCollage&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" /> &nbsp;GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=khadeerCollage&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  
+  <br/><br/>
+  
+  <!-- Achievement Badges Based on Your Stats -->
+  <img src="https://img.shields.io/badge/🏆_PRO_Member-GitHub-black?style=for-the-badge&logo=github" alt="PRO"/>
+  <img src="https://img.shields.io/badge/📊_199+_Contributions-2025-brightgreen?style=for-the-badge" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/📁_34+_Repositories-Active-blue?style=for-the-badge" alt="Repos"/>
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-Achiever-yellow?style=for-the-badge" alt="Stars"/>
+  
+  <br/><br/>
+  
+  <!-- Detailed Stats Cards -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=khadeerCollage&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributed Repos"/>
+
 </div>
 
 ---
