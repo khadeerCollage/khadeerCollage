@@ -204,6 +204,7 @@
   </table>
 </div>
 
+
 <div align="center">
   <table>
     <tr>
@@ -307,7 +308,11 @@
         <br/><b>JavaScript</b>
         <br/><sub>0.53%</sub>
       </td>
-     
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+        <br/><b>C++</b>
+        <br/><sub>0.28%</sub>
+      </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
         <br/><b>HTML</b>
