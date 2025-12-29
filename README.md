@@ -735,10 +735,7 @@ After creating this file, go to **Actions** tab and run the workflow manually!
 </div>
 
 <div align="center">
-  
-  <!-- 3D Call to Action -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=600&lines=🚀+OPEN+FOR+AI%2FML+COLLABORATIONS!+🚀;💼+LET'S+CREATE+SOMETHING+AMAZING+💼" alt="CTA" />
-  
+
   <br/><br/>
   
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" height="40" />
